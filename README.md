@@ -56,7 +56,6 @@ navegador para que la mascota recuerde tu estilo.
 | ⚡ Estado | Concentrado, feliz o explorador |
 | 💾 Memoria | Preferencias guardadas localmente |
 
-**Ábrela aquí:** [Personalizar a TITÁN](https://copito111.github.io/copito111/)
 
 ---
 
