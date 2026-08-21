@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b1020" />
+    <meta name="description" content="TITÁN, mascota RGB personalizable de Camilo Andrés Tamayo." />
+    <title>TITÁN · Mascota RGB</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="stage" aria-label="Vista previa de TITÁN">
+        <div class="grid" aria-hidden="true"></div>
+        <div class="orb orb-one" aria-hidden="true"></div>
+        <div class="orb orb-two" aria-hidden="true"></div>
+        <p class="eyebrow"><span></span> SISTEMA TITÁN / EN LÍNEA</p>
+        <div class="mascot-wrap">
+          <div class="scanner" aria-hidden="true"></div>
+          <div class="mascot" id="mascot" data-eyes="orbit" data-mood="focus">
+            <div class="antenna"><i></i><b></b></div>
+            <div class="ear ear-left"></div>
+            <div class="ear ear-right"></div>
+            <div class="head">
+              <div class="brow"></div>
+              <div class="visor">
+                <div class="eye left"><i></i></div>
+                <div class="eye right"><i></i></div>
+              </div>
+              <div class="mouth"></div>
+              <span class="head-bolt bolt-a"></span>
+              <span class="head-bolt bolt-b"></span>
+            </div>
+            <div class="neck"></div>
+            <div class="body">
+              <div class="chest-core"><span>+</span></div>
+              <div class="chest-lines"></div>
+              <span class="body-bolt bolt-c"></span>
+              <span class="body-bolt bolt-d"></span>
+            </div>
+            <div class="arm arm-left"></div>
+            <div class="arm arm-right"></div>
+            <div class="shadow"></div>
+          </div>
+        </div>
+        <div class="stage-bottom">
+          <span id="mascotLabel">TITÁN</span>
+          <span id="moodLabel">MODO: CONCENTRADO</span>
+          <span>RGB · v1.0</span>
+        </div>
+      </section>
+
+      <aside class="panel" aria-label="Controles de personalización">
+        <header class="panel-header">
+          <div class="brand-mark">T</div>
+          <div>
+            <p>PERSONALIZADOR</p>
+            <h1>TITÁN <span>RGB</span></h1>
+          </div>
+        </header>
+
+        <div class="controls">
+          <label class="control-group" for="mascotName">
+            <span>IDENTIDAD</span>
+            <input id="mascotName" maxlength="18" value="TITÁN" autocomplete="off" />
+          </label>
+
+          <div class="control-group">
+            <span>PALETA NEÓN</span>
+            <div class="swatches" role="group" aria-label="Temas de color">
+              <button class="swatch active" data-color="#00d4ff" aria-label="Tema cian" style="--swatch:#00d4ff"></button>
+              <button class="swatch" data-color="#ff3cac" aria-label="Tema magenta" style="--swatch:#ff3cac"></button>
+              <button class="swatch" data-color="#a855f7" aria-label="Tema violeta" style="--swatch:#a855f7"></button>
+              <button class="swatch" data-color="#00e5a0" aria-label="Tema verde" style="--swatch:#00e5a0"></button>
+              <label class="custom-swatch" title="Elegir color RGB">
+                <input id="primaryColor" type="color" value="#00d4ff" aria-label="Color RGB personalizado" />
+                <span>+</span>
+              </label>
+            </div>
+          </div>
+
+          <label class="control-group" for="energy">
+            <span>ENERGÍA <output id="energyValue">72%</output></span>
+            <input id="energy" type="range" min="15" max="100" value="72" />
+          </label>
+
+          <label class="control-group" for="eyeStyle">
+            <span>VISOR</span>
+            <select id="eyeStyle">
+              <option value="orbit">Orbit</option>
+              <option value="pixel">Pixel</option>
+              <option value="sleep">Sueño</option>
+            </select>
+          </label>
+
+          <label class="control-group" for="mood">
+            <span>ESTADO</span>
+            <select id="mood">
+              <option value="focus">Concentrado</option>
+              <option value="happy">Feliz</option>
+              <option value="explore">Explorador</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="actions">
+          <button class="primary-action" id="copyConfig">COPIAR CONFIGURACIÓN <span>↗</span></button>
+          <button class="secondary-action" id="resetMascot">RESTABLECER</button>
+        </div>
+        <p class="save-note" id="saveNote">✓ Tus ajustes se guardan en este dispositivo.</p>
+      </aside>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
