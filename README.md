@@ -1,85 +1,62 @@
-<!--
-  README DE PERFIL PARA GITHUB
-  Para usarlo: crea un repositorio con el mismo nombre de tu usuario de GitHub
-  y sube este archivo renombrado como README.md.
--->
+<!-- README DE PERFIL RGB PARA copito111 -->
 
 <div align="center">
 
-# ⚡ CAMILO ANDRÉS TAMAYO
+# ✦ CAMILO ANDRÉS TAMAYO ✦
 
-### `SOFTWARE • INTELIGENCIA ARTIFICIAL • DATOS`
+### `SOFTWARE  •  IA  •  DATOS  •  CREATIVIDAD`
 
-![Ubicación](https://img.shields.io/badge/Neiva%2C_Colombia-10120F?style=for-the-badge&logo=googlemaps&logoColor=CAFF3D)
-![Formación](https://img.shields.io/badge/ADSO_%7C_SENA-10120F?style=for-the-badge&logo=code&logoColor=CAFF3D)
-![Estado](https://img.shields.io/badge/Aprendiendo_y_construyendo-CAFF3D?style=for-the-badge&logo=rocket&logoColor=10120F)
+![Ubicación](https://img.shields.io/badge/NEIVA%2C_COLOMBIA-00D4FF?style=for-the-badge&logo=googlemaps&logoColor=0B1020)
+![Formación](https://img.shields.io/badge/ADSO_%7C_SENA-9B5CFF?style=for-the-badge&logo=code&logoColor=FFFFFF)
+![Modo](https://img.shields.io/badge/MODO_RGB_ACTIVO-FF3CAC?style=for-the-badge&logo=lightning&logoColor=FFFFFF)
 
-**`CONSTRUIR  →  PROBAR  →  APRENDER  →  MEJORAR`**
+`🔴 CONSTRUIR  ·  🟢 PROBAR  ·  🔵 APRENDER  ·  🟣 MEJORAR`
 
-[![Portafolio](https://img.shields.io/badge/◉_VER_MI_PORTAFOLIO-CAFF3D?style=for-the-badge&logoColor=10120F)](https://portfolio-ly-minh.perryhowardveohtnzxp.chatgpt.site)
+[![Abrir TITÁN](https://img.shields.io/badge/◉_PERSONALIZAR_A_TITÁN-FF3CAC?style=for-the-badge&logo=robot&logoColor=FFFFFF)](https://copito111.github.io/copito111/)
 
 </div>
 
 ---
 
-## ◈ SOBRE MÍ
+## 🛸 BIENVENIDO A MI LABORATORIO DIGITAL
 
 ```text
 NOMBRE      Camilo Andrés Tamayo
 UBICACIÓN   Neiva, Huila — Colombia
-FORMACIÓN   Tecnólogo en Análisis y Desarrollo de Software · SENA
+FORMACIÓN   Análisis y Desarrollo de Software · SENA
 ENFOQUE     Desarrollo web · Bases de datos · Linux · Inteligencia artificial
-FILOSOFÍA   Aprender haciendo proyectos reales
+MENTALIDAD  Aprender haciendo proyectos reales
 ```
 
-Soy desarrollador en formación y disfruto convertir preguntas técnicas en
-proyectos que funcionan. Me interesa comprender el **porqué** detrás de cada
-solución, experimentar directamente y analizar los errores hasta encontrar su
-causa.
+Soy desarrollador en formación y me gusta transformar retos técnicos en
+proyectos útiles. Me interesa entender el porqué de cada solución, probar ideas
+de forma práctica y usar la IA como compañero de aprendizaje y ejecución.
 
-> La IA no es solamente una herramienta para responder preguntas: es un socio
-> para aprender, construir y ejecutar ideas.
+> **MI REGLA:** si algo falla, lo investigo; si lo entiendo, lo mejoro.
 
 ---
 
-## ✦ PROYECTO DESTACADO — TITAN IA
+## 🤖 CONOCE A TITÁN — MI MASCOTA RGB
 
 <div align="center">
 
-![TITAN IA](https://img.shields.io/badge/TITAN_IA-EN_CONSTRUCCIÓN-CAFF3D?style=for-the-badge&labelColor=10120F)
+![TITÁN](https://img.shields.io/badge/TITÁN-ROBOT_PERSONALIZABLE-00D4FF?style=for-the-badge&logo=robot&logoColor=0B1020)
 
 </div>
 
-**TITAN IA** es mi laboratorio de aprendizaje y emprendimiento. Su objetivo es
-convertir la inteligencia artificial, la automatización y la creación de
-contenido en productos y servicios útiles.
+**TITÁN** es una miniapp interactiva creada para este perfil. Puedes ajustar su
+color, intensidad de brillo, ojos, ánimo y nombre; tus cambios se guardan en el
+navegador para que la mascota recuerde tu estilo.
 
-```mermaid
-flowchart LR
-    A[Aprender] --> B[Experimentar]
-    B --> C[Construir]
-    C --> D[Compartir]
-    D --> A
-```
+| CONTROL | PERSONALIZACIÓN |
+|:--|:--|
+| 🎨 RGB | Color principal y temas neón predefinidos |
+| ✨ Energía | Intensidad de luces y resplandor |
+| 👁️ Visor | Ojos orbit, pixel o sueño |
+| ⚡ Estado | Concentrado, feliz o explorador |
+| 💾 Memoria | Preferencias guardadas localmente |
 
-**Áreas que exploro:**
-
-- Modelos locales con Ollama, Mistral y Gemma.
-- Automatización de tareas y procesos.
-- Desarrollo de productos y servicios con IA.
-- Creación de contenido, marketing y comunicación.
-- Inglés, persuasión y habilidades para emprender.
-
----
-
-## ⬡ PROYECTOS Y LABORATORIOS
-
-| PROYECTO | ENFOQUE | TECNOLOGÍAS / CONCEPTOS |
-|:--|:--|:--|
-| **TITAN IA** | Emprendimiento y experimentación con IA | IA local · Automatización · Producto |
-| **CAFÉ WEB** | Operación digital para un café | PHP · MySQL · Panel administrativo |
-| **SQL LAB** | Diseño relacional y 60 ejercicios prácticos | MySQL · DBeaver · Modelo E–R |
-| **LINUX WORKBENCH** | Configuración, diagnóstico y aprendizaje | Ubuntu · Debian · Arch · Hardware |
+**Ábrela aquí:** [Personalizar a TITÁN](https://copito111.github.io/copito111/)
 
 ---
 
@@ -87,71 +64,60 @@ flowchart LR
 
 ### DESARROLLO WEB
 
-![HTML5](https://img.shields.io/badge/HTML5-10120F?style=for-the-badge&logo=html5&logoColor=CAFF3D)
-![CSS3](https://img.shields.io/badge/CSS3-10120F?style=for-the-badge&logo=css&logoColor=CAFF3D)
-![PHP](https://img.shields.io/badge/PHP-10120F?style=for-the-badge&logo=php&logoColor=CAFF3D)
-![Backend](https://img.shields.io/badge/BACKEND-10120F?style=for-the-badge&logo=serverfault&logoColor=CAFF3D)
+![HTML5](https://img.shields.io/badge/HTML5-FF5C8A?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-00A8FF?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-9B5CFF?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![Backend](https://img.shields.io/badge/BACKEND-00D084?style=for-the-badge&logo=serverfault&logoColor=0B1020)
 
 ### DATOS Y LÓGICA
 
-![MySQL](https://img.shields.io/badge/MySQL-10120F?style=for-the-badge&logo=mysql&logoColor=CAFF3D)
-![DBeaver](https://img.shields.io/badge/DBeaver-10120F?style=for-the-badge&logo=dbeaver&logoColor=CAFF3D)
-![Java](https://img.shields.io/badge/Java-10120F?style=for-the-badge&logo=openjdk&logoColor=CAFF3D)
-![PSeInt](https://img.shields.io/badge/PSeInt-10120F?style=for-the-badge&logoColor=CAFF3D)
+![MySQL](https://img.shields.io/badge/MySQL-00D4FF?style=for-the-badge&logo=mysql&logoColor=0B1020)
+![DBeaver](https://img.shields.io/badge/DBeaver-FFB000?style=for-the-badge&logo=dbeaver&logoColor=0B1020)
+![Java](https://img.shields.io/badge/Java-FF5C8A?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![PSeInt](https://img.shields.io/badge/PSeInt-9B5CFF?style=for-the-badge&logoColor=FFFFFF)
 
-### SISTEMAS Y HERRAMIENTAS
+### IA, LINUX Y HERRAMIENTAS
 
-![Linux](https://img.shields.io/badge/Linux-10120F?style=for-the-badge&logo=linux&logoColor=CAFF3D)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-10120F?style=for-the-badge&logo=ubuntu&logoColor=CAFF3D)
-![Debian](https://img.shields.io/badge/Debian-10120F?style=for-the-badge&logo=debian&logoColor=CAFF3D)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-10120F?style=for-the-badge&logo=archlinux&logoColor=CAFF3D)
-![GitHub](https://img.shields.io/badge/GitHub-10120F?style=for-the-badge&logo=github&logoColor=CAFF3D)
-
-### INTELIGENCIA ARTIFICIAL
-
-![Ollama](https://img.shields.io/badge/Ollama-10120F?style=for-the-badge&logo=ollama&logoColor=CAFF3D)
-![Mistral](https://img.shields.io/badge/Mistral-10120F?style=for-the-badge&logo=mistralai&logoColor=CAFF3D)
-![Gemma](https://img.shields.io/badge/Gemma-10120F?style=for-the-badge&logo=google&logoColor=CAFF3D)
-![Automatización](https://img.shields.io/badge/Automatización-CAFF3D?style=for-the-badge&logo=probot&logoColor=10120F)
+![Linux](https://img.shields.io/badge/Linux-00D084?style=for-the-badge&logo=linux&logoColor=0B1020)
+![Ollama](https://img.shields.io/badge/Ollama-FF3CAC?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
+![Mistral](https://img.shields.io/badge/Mistral-FF8C42?style=for-the-badge&logo=mistralai&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-00A8FF?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ---
 
-## ⌁ ASÍ APRENDO
+## 🚀 PROYECTOS Y EXPLORACIONES
+
+| PROYECTO | IDEA PRINCIPAL | ESTADO |
+|:--|:--|:--|
+| **TITAN IA** | IA, automatización, producto y emprendimiento | 🟣 En construcción |
+| **CAFÉ WEB** | Operación digital para un café | 🔵 Concepto full stack |
+| **SQL LAB** | Modelo E–R, consultas y práctica intensiva | 🟢 En exploración |
+| **LINUX WORKBENCH** | Hardware, redes y entornos locales de IA | 🟠 Laboratorio activo |
+
+---
+
+## 🧠 FORMA DE APRENDER
 
 ```bash
-$ camilo --modo-aprendizaje
+$ titan --modo=aprendizaje
 
-✓ Entender el problema antes de elegir la herramienta
-✓ Seguir una ruta clara y práctica
-✓ Construir un proyecto mientras aprendo
-✓ Analizar cada error, no esconderlo
-✓ Mejorar la experiencia, no solamente hacer que funcione
+01  Entender el problema antes de elegir la herramienta
+02  Construir mientras aprendo
+03  Analizar los errores hasta descubrir su causa
+04  Mejorar la experiencia, no solo hacer que funcione
 
-> estado: curiosidad activa
+STATUS: CURIOSIDAD ACTIVA ✦
 ```
-
----
-
-## ◎ RUMBO ACTUAL
-
-- [x] Fortalecer lógica de programación y bases de datos.
-- [x] Construir interfaces web intuitivas y profesionales.
-- [x] Configurar entornos Linux y modelos locales de IA.
-- [ ] Convertir TITAN IA en productos y servicios reales.
-- [ ] Profundizar en automatización, marketing e inglés.
-- [ ] Colaborar en proyectos donde pueda aprender y aportar.
 
 ---
 
 <div align="center">
 
-### ¿CONSTRUIMOS ALGO REAL?
+### ✦ ¿CONSTRUIMOS ALGO REAL? ✦
 
-Estoy abierto a proyectos de aprendizaje, desarrollo web, datos e inteligencia
-artificial donde una idea pueda convertirse en una solución útil.
+Estoy abierto a aprender, colaborar y crear soluciones que mezclen software,
+datos e inteligencia artificial.
 
-![Hecho en Colombia](https://img.shields.io/badge/HECHO_CON_CURIOSIDAD_EN_COLOMBIA-CAFF3D?style=for-the-badge&logo=coffeescript&logoColor=10120F)
-
-`Gracias por visitar mi perfil — siempre hay algo nuevo por aprender.`
+![Hecho en Colombia](https://img.shields.io/badge/HECHO_CON_CURIOSIDAD_EN_COLOMBIA-9B5CFF?style=for-the-badge&logo=coffeescript&logoColor=FFFFFF)
 
 </div>
