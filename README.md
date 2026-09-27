@@ -12,7 +12,7 @@
 
 `🔴 CONSTRUIR  ·  🟢 PROBAR  ·  🔵 APRENDER  ·  🟣 MEJORAR`
 
-[![Abrir TITÁN](https://img.shields.io/badge/◉_PERSONALIZAR_A_TITÁN-FF3CAC?style=for-the-badge&logo=robot&logoColor=FFFFFF)](https://copito111.github.io/copito111/)
+
 
 </div>
 
@@ -34,30 +34,9 @@ de forma práctica y usar la IA como compañero de aprendizaje y ejecución.
 
 > **MI REGLA:** si algo falla, lo investigo; si lo entiendo, lo mejoro.
 
----
-
-## 🤖 CONOCE A TITÁN — MI MASCOTA RGB
-
-<div align="center">
-
-![TITÁN](https://img.shields.io/badge/TITÁN-ROBOT_PERSONALIZABLE-00D4FF?style=for-the-badge&logo=robot&logoColor=0B1020)
-
 </div>
 
-**TITÁN** es una miniapp interactiva creada para este perfil. Puedes ajustar su
-color, intensidad de brillo, ojos, ánimo y nombre; tus cambios se guardan en el
-navegador para que la mascota recuerde tu estilo.
 
-| CONTROL | PERSONALIZACIÓN |
-|:--|:--|
-| 🎨 RGB | Color principal y temas neón predefinidos |
-| ✨ Energía | Intensidad de luces y resplandor |
-| 👁️ Visor | Ojos orbit, pixel o sueño |
-| ⚡ Estado | Concentrado, feliz o explorador |
-| 💾 Memoria | Preferencias guardadas localmente |
-
-
----
 
 ## ⚙ STACK TECNOLÓGICO
 
