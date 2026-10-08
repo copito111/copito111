@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Perfil Profesional & Propuesta de Valor
 
-Ingeniero de Software con sólida experiencia en el diseño y ejecución de soluciones backend empresariales. Mi enfoque combina la aplicación rigurosa de principios de ingeniería (**Clean Architecture**, **Domain-Driven Design**, **SOLID**) con una mentalidad orientada a maximizar el impacto operativo y comercial de cada sistema.
+Estudainte con sólida experiencia en el diseño y ejecución de soluciones backend. Mi enfoque combina la aplicación rigurosa de principios de ingeniería (**Clean Architecture**, **Domain-Driven Design**, **SOLID**) con una mentalidad orientada a maximizar el impacto operativo y comercial de cada sistema.
 
 - 🏗️ **Arquitectura Backend & Sistemas Robustos:** Especializado en el desarrollo de APIs RESTful de baja latencia, servicios modulares desacoplados y procesamiento asíncrono.
 - 🗄️ **Ingeniería de Datos Relacionales:** Diseño de esquemas normalizados, optimización de planes de ejecución en consultas complejas, indexación estratégica y gestión de concurrencia ACID en MySQL / PostgreSQL.
