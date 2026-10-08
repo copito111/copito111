@@ -1,0 +1,9 @@
+# GitHub Sponsors & Open Source Funding Configuration
+# Reference: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button
+
+github: copito111
+ko_fi: copito111
+buy_me_a_coffee: copito111
+custom:
+  - 'https://ko-fi.com/copito111'
+  - 'mailto:ctamayo959@gmail.com'
